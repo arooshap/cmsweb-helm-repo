@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  crabcache:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-26T12:56:35.519913491+02:00"
+    description: A Helm chart for Kubernetes
+    digest: ea9696ce22d094affffee3f2a36d781c1340814219fa53057a2d4062f12f9f44
+    name: crabcache
+    type: application
+    urls:
+    - https://arooshap.github.io/cmsweb-helm-repo/crabcache-0.1.0.tgz
+    version: 0.1.0
+  crabserver:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-26T12:56:35.521083761+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 22f91c90b8bd1476f5f83e33b2e3bc528b32687f799acb187dcaf8de8c1f1d45
+    name: crabserver
+    type: application
+    urls:
+    - https://arooshap.github.io/cmsweb-helm-repo/crabserver-0.1.0.tgz
+    version: 0.1.0
+  das-mongo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-26T12:56:35.521952588+02:00"
+    description: A Helm chart for Kubernetes
+    digest: d5b125457e7c64a98e7c4b2617d44b89ca2a4d425964c4a48ea15b770d268088
+    name: das-mongo
+    type: application
+    urls:
+    - https://arooshap.github.io/cmsweb-helm-repo/das-mongo-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-26T12:56:35.517841265+02:00"
